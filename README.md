@@ -11,6 +11,6 @@ An OpenSimplex based randomized simulator that aims to generate realistic lookin
 <br><br>
 
 <p align="center">
-  <img width="800" src="Images/simulated.png">
+  <img width="800" src="Images/simulated.png"><br>
   Simulated Images
 </p>
